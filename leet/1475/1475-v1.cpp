@@ -4,6 +4,10 @@
 
 using namespace std;
 
+// Version 1 uses a brute force approach to find the discount for each price
+// Iterating from i + 1 to end of array
+// This should take O(n^2) at the worst => Can do better...
+
 class Solution {
 public:
     int discount(int index, vector<int>& prices)
