@@ -1,0 +1,8 @@
+# Ignore all .yml files
+*.yml
+
+# Ignore all .xml files
+*.xml
+
+# Ignore all .out files
+*.out
