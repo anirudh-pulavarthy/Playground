@@ -1,6 +1,7 @@
 from typing import List
 
 class Solution:
+<<<<<<< HEAD
     
     def maxChunksToSorted(self, arr: List[int]) -> int:
         chunks = 0
@@ -28,6 +29,13 @@ class Solution:
 
 if __name__ == "__main__":
     arr = [0,2,1,4,3]
+=======
+    def maxChunksToSorted(self, arr: List[int]) -> int:
+        return 0
+
+if __name__ == "__main__":
+    arr = [4,3,2,1,0]
+>>>>>>> 73b9584 (Daily problem December 19)
 
     s = Solution()
     res = s.maxChunksToSorted(arr)
