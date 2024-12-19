@@ -6,3 +6,17 @@
 
 # Ignore all .out files
 *.out
+
+# Ignore all .plist files
+*.plist
+./**/*.plist
+
+# Ignore all Unix executable files
+*/*
+!*.*
+
+# Ignore all unimportant files
+.DS_Store
+settings.json
+tasks.json
+cpp/.vscode/tasks.json
