@@ -16,8 +16,10 @@
 # Ignore all .lock files
 *.lock
 
-# Ignore all unimportant files
+# Ignore all other files
 .DS_Store
 settings.json
 tasks.json
+CLRS.pdf
+Algorithms-JeffE.pdf
 cpp/.vscode/tasks.json
