@@ -9,7 +9,6 @@
 
 # Ignore all .plist files
 *.plist
-./**/*.plist
 
 # Ignore all Unix executable files
 */*
