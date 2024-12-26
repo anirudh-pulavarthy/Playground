@@ -23,11 +23,11 @@ In addition to Leetcode problems, I have also included some practice problems th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/leetcode-solutions.git
+    git clone https://github.com/anirudh-pulavarthy/Playground.git
     ```
 2. Navigate to the directory:
     ```bash
-    cd leetcode-solutions
+    cd leet
     ```
 3. Explore the solutions and practice problems.
 
