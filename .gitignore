@@ -10,6 +10,12 @@
 # Ignore all .plist files
 *.plist
 
+# Ignore all .log files
+*.log
+
+# Ignore all .lock files
+*.lock
+
 # Ignore all unimportant files
 .DS_Store
 settings.json
