@@ -1,3 +1,4 @@
+# Daily problem Jan 2
 class Solution:
     def vowelStrings(self, words: List[str], queries: List[List[int]]) -> List[int]:
         vowels = set("aeiou")
