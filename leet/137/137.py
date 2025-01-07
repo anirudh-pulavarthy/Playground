@@ -7,10 +7,6 @@ class Solution:
         for num in nums:
             ones = (ones ^ num) & ~twos
             twos = (twos ^ num) & ~ones
-
-            # print(ones)
-            # print(twos)
-            # print("=============")
             
         return ones
         
