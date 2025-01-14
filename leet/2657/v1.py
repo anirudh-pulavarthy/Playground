@@ -1,3 +1,6 @@
+from typing import List
+from collections import defaultdict
+
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
         def countTwos(fre):
