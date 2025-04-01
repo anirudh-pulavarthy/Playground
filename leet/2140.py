@@ -10,4 +10,5 @@ class Solution:
             ans_include = questions[i][0] + next_ans
             dp[i] = max(ans_exclude, ans_include)
 
-        return max(dp)
+        # return max(dp)
+        return dp[0]    # dp[0] should hold the maximum possible points one can earn
